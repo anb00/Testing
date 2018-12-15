@@ -1,2 +1,1 @@
-# Testing
-CRUD
+# spring-rest-mvc-basics
